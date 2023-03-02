@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Main {
+public class Aufgabe10 {
     public static void main(String[] args) {
         int l = 100;
         int p = 191;
